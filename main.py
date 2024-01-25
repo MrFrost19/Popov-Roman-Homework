@@ -1,3 +1,5 @@
+# by Popov Roman
+
 class Animals:
     type = "rodents"
     planet = "earth"
@@ -39,3 +41,5 @@ smartphone3 = Devices(name="Xiaomi Redmi Note 12", brand="Xiaomi", snapdragon_mo
 print(f"Info smartphone1 Type {Devices.type}, Os {Devices.os}, Cpu Brand {Devices.cpu_brand}, Name {smartphone1.name}, Brand {smartphone1.brand}, Snapdragon model {smartphone1.snapdragon_model}")
 print(f"Info smartphone2 Type {Devices.type}, Os {Devices.os}, Cpu Brand {Devices.cpu_brand}, Name {smartphone2.name}, Brand {smartphone2.brand}, Snapdragon model {smartphone2.snapdragon_model}")
 print(f"Info smartphone3 Type {Devices.type}, Os {Devices.os}, Cpu Brand {Devices.cpu_brand}, Name {smartphone3.name}, Brand {smartphone3.brand}, Snapdragon model {smartphone3.snapdragon_model}")
+
+# by Popov Roman
